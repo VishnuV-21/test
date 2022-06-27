@@ -6,7 +6,7 @@ public class ClassOne {
 		if(status==true) {
 			System.out.println("Yes i have mastered");
 		}
-		else {
+		else  {
 			System.out.println("No its still in progress");
 		}
 	}
